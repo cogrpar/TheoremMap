@@ -2,3 +2,4 @@
 /lake-packages/*
 !/lake-packages
 /__pycache__
+derivationGraph.pickle
